@@ -21,5 +21,4 @@
   <a href="https://www.linkedin.com/in/cleiton-mendes-b83819261/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
-go get -u github.com/spf13/cobra@latest
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CleitonMendess)](https://github.com/CleitonMendess/github-readme-stats)
