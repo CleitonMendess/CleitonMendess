@@ -4,7 +4,7 @@
 - 📫 Contate-me no email: cleiton.mendes0017@gmail.com
 - 😄 Pronouns: ele/dele
 
-Linguagens aprendidas: 
+
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
