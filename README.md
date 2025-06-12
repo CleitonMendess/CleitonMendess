@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Cleiton Mendes
-- 🔭 Hoje estou a procura da minha primeira experiência na área 
-- 🌱 Cursando Ciência da Computação 
-- 😄 Pronouns: ele/dele
+- 🎓 Estudante de Ciência da Computação
+- 💻 Estudando .NET, MongoDB, Cloud AWS 
+- 🚀 Buscando crescer na área de back-end com microserviços 
 
 
 <div style="display: inline_block"><br>
