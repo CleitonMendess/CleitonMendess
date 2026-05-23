@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Cleiton Mendes
 - 🎓 Estudante de Ciência da Computação
-- 💻 Estudando Java, Springboot, Cloud AWS 
+- 💻 Estudando Python, Java, MongoDb
 - 🚀 Buscando crescer na área de back-end com microserviços 
 
 
